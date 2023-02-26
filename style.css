@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+.invisible {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+#solution {
+  text-align: center;
+  font-size: 100%;
+}
+h3 {
+  text-align: center;
+}
+button {
+  margin: 10px;
+}
+body {
+  background-color: beige;
+}
